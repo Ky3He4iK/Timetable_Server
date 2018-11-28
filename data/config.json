@@ -1,0 +1,20 @@
+{
+  "userAgent": "Timetable updater",
+  "urlTimetable": "http://lyceum.urfu.ru/n/inc/tmtblAjax.php",
+  "urlLists": "http://lyceum.urfu.ru/n/?p\u003dtmtbl",
+  "dayNames": [
+    "Понедельник",
+    "Вторник",
+    "Среда",
+    "Четверг",
+    "Пятница",
+    "Суббота"
+  ],
+  "isDebug": true,
+  "ttFile": "data/timetable.json",
+  "changesFile": "data/changes.json",
+  "logLevel": "VERBOSE",
+  "port": 8080,
+  "admin_login": "admin",
+  "admin_password": "12345"
+}
